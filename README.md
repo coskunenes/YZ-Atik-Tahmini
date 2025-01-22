@@ -1,4 +1,4 @@
 # YZ-Atik-Tahmini
 Yapay Zeka ve Makine Öğrenmesi Yöntemleri ile İstanbul İlçelerinde Evsel Atık Miktarlarının  Tahmin Edilmesi
 
-[OTOARK.pdf](https://github.com/user-attachments/files/18501007/OTOARK.pdf)
+**Kullanılan Veri Seti:** https://data.ibb.gov.tr/dataset/evsel-atik-miktari/resource/50036dfd-aea5-4f06-832f-f7020fdaaa5a
